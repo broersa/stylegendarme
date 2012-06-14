@@ -1,0 +1,4 @@
+stylegendarme
+=============
+
+StyleCop Console App
