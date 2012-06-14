@@ -4,3 +4,10 @@ obj
 
 # mstest test results
 TestResults
+# nunit test results
+TestResult.xml
+
+*.suo
+#nuget packages
+packages
+
