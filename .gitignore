@@ -8,6 +8,5 @@ TestResults
 TestResult.xml
 
 *.suo
-#nuget packages
-packages
+.DS_Store
 

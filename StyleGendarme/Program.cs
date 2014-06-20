@@ -22,7 +22,7 @@
    	            { "v|verbose",  v => verbose = v != null },
    	            { "h|?|help",   v => help = v != null },
             };
-            List<string> extra = p.Parse (args);
+            p.Parse (args);
             if (inpath == null || outxml == null || help)
             {
                 Console.WriteLine("StyleGendarme.exe --inpath <path> --outxml <file>");
