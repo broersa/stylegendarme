@@ -1,4 +1,7 @@
-﻿namespace StyleGendarme
+﻿/// <summary>
+/// Watch out! when updating stylecop package also update stylecoprules dll from original msi distribution
+/// </summary>
+namespace StyleGendarme
 {
     using System;
     using System.Collections.Generic;
